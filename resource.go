@@ -38,6 +38,8 @@ func init() {
 		"nic_list.0.ip_endpoint_list.0.ip",                    // Nutanix
 		"network_interface.0.nat_ip_address",                  // Yandex
 		"network_interface.0.ip_address",                      // Yandex
+		"main_ip"                                              // Vultr
+		"internal_ip"                                          // Vultr
 	}
 
 	// Formats:
